@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm Mohammed Sinan k👋</h1>
+<h1 align="center">Hi, I'm Mohammed Sinan 👋</h1>
 
 
 <h2 align="center">Full Stack Developer</h2>
